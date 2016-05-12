@@ -1,0 +1,4 @@
+D:\Documents\Arduino\MMLPlayer\AsciiToHex\AsciiToHex\bin\Debug\AsciiToHex.exe
+D:\Documents\Arduino\MMLPlayer\AsciiToHex\AsciiToHex\bin\Debug\AsciiToHex.pdb
+D:\Documents\Arduino\MMLPlayer\AsciiToHex\AsciiToHex\obj\x86\Debug\AsciiToHex.exe
+D:\Documents\Arduino\MMLPlayer\AsciiToHex\AsciiToHex\obj\x86\Debug\AsciiToHex.pdb
